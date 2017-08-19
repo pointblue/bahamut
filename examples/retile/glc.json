@@ -1,0 +1,8 @@
+{
+  "baseTilePath":"/var/www/html/bahamut/examples/retile",
+  "retilePaths":[
+    "glc"
+  ],
+  "startZoomLevel":11,
+  "endZoomLevel":12
+}
