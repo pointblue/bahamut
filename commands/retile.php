@@ -2,6 +2,9 @@
 
 /**
  * Calls RetileXYZ::retile using arguments from the supplied json file
+ *
+ * For an example, see `examples/retile/README.md`
+ *
  */
 
 require __DIR__ . '/../vendor/autoload.php';
